@@ -1,8 +1,6 @@
 
-![Uploading Screenshot 2024-09-27 at 9.38.09 PM.png…]()
 
-
-
+<img width="1225" alt="Screenshot 2024-09-27 at 9 38 09 PM" src="https://github.com/user-attachments/assets/2e542a4c-658c-4a59-a7dd-4b8b55fe3cf9">
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
